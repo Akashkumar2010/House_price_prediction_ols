@@ -1,14 +1,4 @@
-I'll review the uploaded Jupyter Notebook and create a README file for your project along with a description. Let me check the contents first.
-
-It seems there was an error while trying to open the file. I'll try a different approach to analyze the notebook content.
-
-The notebook seems to focus on analyzing house prices using a dataset containing 81 features, with the final target being the "Property_Sale_Price." It involves typical data science steps like loading data, performing exploratory data analysis, and applying linear regression.
-
-Here is a draft of the README file for the project:
-
----
-
-# House Price Prediction using Ordinary Least Squares (OLS)
+## House Price Prediction using Ordinary Least Squares (OLS)
 
 This project aims to predict house prices based on various features using an Ordinary Least Squares (OLS) regression model. The dataset contains 81 features such as lot size, neighborhood, year built, and more, which are used to train the model and predict the final sale price.
 
@@ -73,10 +63,4 @@ The trained model is evaluated using Mean Squared Error (MSE) and R-squared metr
 
 Feel free to fork this repository and contribute by submitting a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you'd like to make any adjustments or add more details to this README file!
